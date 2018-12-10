@@ -11,3 +11,5 @@
 dato un raster, per estrarre le curve di livello (in questo caso isopga) si utilizza lo strumento _curve di livello_; cercarlo negli strumenti di procesing:
 
 ![curve](../img/isopga_10.png)
+
+[video](https://youtu.be/CwJYGQHsNH0)
